@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Ecom.Notification.Application/Ecom.Notification.Application.csproj" Id="f4cec6ad-2b3c-408d-bf5d-237712323fb3" />
+  <Project Path="Ecom.Notification.Core/Ecom.Notification.Core.csproj" Id="4c5d1617-bb28-4570-82af-035d28a4c6ba" />
+  <Project Path="Ecom.Notification.Infrastructure/Ecom.Notification.Infrastructure.csproj" Id="82e6d527-2c3a-44f3-b70c-2cd0576b1b08" />
+  <Project Path="Ecom.Notification/Ecom.Notification.csproj" />
+</Solution>

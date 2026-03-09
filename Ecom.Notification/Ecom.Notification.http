@@ -1,0 +1,6 @@
+@Ecom.Notification_HostAddress = http://localhost:5234
+
+GET {{Ecom.Notification_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
